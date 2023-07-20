@@ -129,3 +129,12 @@ nav{
         font-size: 20px;
         padding-left: 150px;
     }
+    .a-pic , .main-one , .main-two {
+        display: flex;
+        gap: 20px;
+    }
+    .main-one , .main-two{
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
