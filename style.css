@@ -138,3 +138,15 @@ nav{
         text-align: center;
         align-items: center;
     }
+ .footer{
+    background: #0B0223;
+    color: #FFF;
+    text-align: center;
+    align-items: center;
+    padding: 400px;
+
+}
+.inline{
+    display: flex;
+    gap: 30px;
+}
